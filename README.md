@@ -1,12 +1,14 @@
-### 👋 Hi there
+### 👋 Hello World!
 
 
 
 Intro: I'm Sunny Li, a sophomore civil engineer at Duke University! Welcome to my GitHub.
 
-### 📫 Reach me at 
+### 📫 Reach me at:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sunnyxli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunnyxli/)](https://www.linkedin.com/in/sunnyxli/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-sunnyxli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunnyxli/)](https://www.linkedin.com/in/sunnyxli/) -->
+
+[![linkedin](https://img.shields.io/badge/-sunnyxli-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/sunnyxli/)
 
 <!--
 **taiyangie/taiyangie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
