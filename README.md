@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Intro: I'm Sunny Li, a sophomore civil engineer at Duke University! Welcome to my GitHub.
 <!--
 **taiyangie/taiyangie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
