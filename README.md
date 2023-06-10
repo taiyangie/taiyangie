@@ -2,8 +2,6 @@
 
 
 
-Intro: I'm Sunny Li, a sophomore civil engineer at Duke University! Welcome to my GitHub.
-
 ### 📫 Reach me at:
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-sunnyxli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunnyxli/)](https://www.linkedin.com/in/sunnyxli/) -->
